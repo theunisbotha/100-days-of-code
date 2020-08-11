@@ -8,3 +8,13 @@
 
 **Link(s) to work:** 
 1. [Flutter App](http://github.com/theunisbotha/flutterapp)
+
+### Day 1: 11 August, 2020
+
+**Today's Progress**: I set up a physical device and finished the first part of the Flutter tutorial. I learned the basics of Stateless and Statefull widgets and how they interact.
+
+**Thoughts:** Decided to set up my physical device instead of an emulator, and I was blown away at how easy it was. Simply installed the `adb` package using my terminal, connected my mobile device and turned on `USB Debugging`, authorized it, ran `adb devices` and it was connected. I simply switched back to VS Code and was able to debug on my device.
+
+I was a bit overwhelmed before and had a bit of a difficult time grasping the concepts of Flutter, but actually spending time going through the tutorial helped me understand how it fits together. 
+
+All in all, so far this challenge proves that starting is difficult, but as soon as you do, continuing is easy. 👏
