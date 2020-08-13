@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 10 August, 2020
+### Day 0: 11 August, 2020
 
 **Today's Progress**: Starting `100 Days of Code`, set up environment and repositories.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [Flutter App](https://github.com/theunisbotha/flutterapp)
 
-### Day 1: 11 August, 2020
+### Day 1: 12 August, 2020
 
 **Today's Progress**: I set up a physical device and finished the first part of the Flutter tutorial. I learned the basics of Stateless and Statefull widgets and how they interact.
 
