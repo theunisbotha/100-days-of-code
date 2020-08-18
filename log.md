@@ -38,3 +38,12 @@ After finishing the tutorial, I was curious on how to change the icon for the ap
 
 **Links to work:**
 1. [Flutter Image Viewer](https://github.com/theunisbotha/flutter-image-viewer)
+
+### Day 4: 18 August, 2020
+
+**Today's Progress:** Continued experimentation with the `local_image_provider` package by [csdcorp](https://github.com/csdcorp/local_image_provider). Found and example in an older version in the package documentation and created a Widget containing a list of albums each containing the cover image.
+
+**Thoughts:** Progress is much slower, but also more rewarding. After being finally able to list the image albums on the device, I can move on to the next step, adding interactivity by displaying the images when an album is loaded. It will be a bit more complex, as I will need to implement some form of `lazy-loading` when opening bigger albums, but one step at a time! 😃
+
+**Links to work:**
+1. [Flutter Image Viewer](https://github.com/theunisbotha/flutter-image-viewer)
